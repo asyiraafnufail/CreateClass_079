@@ -14,7 +14,7 @@ class PersegiPanjang:
     
 pp = PersegiPanjang(8, 6)
 
-print(pp.__str__())
+print(pp)
 
 print("Keliling: ", pp.keliling(), "cm")
 
